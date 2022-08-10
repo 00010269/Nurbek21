@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nurbek21. My full name is Abduraximov Nurbek. Backend Developer
-- 👀 I’m learning Java and practicing on it.
-- 🌱 I’m currently working on my personal project.
+- 👀 I’m learning Java and practicing and working on it.
+- 🌱 I’m currently working in Mahorat Tech company.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => Email : @abduraximovnurbek0002@gmail.com || Telegram : @thepro1401 || Linkedin: linkedin.com/in/nurbek-abdurakhimov-1368b7229
 
